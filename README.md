@@ -1,4 +1,4 @@
-<h3 align="center">Hi 👋, I'm Togun Oluwatobi</h3>
+<h1 align="center">Hi 👋, I'm Togun Oluwatobi</h1>
 
 ###
 
