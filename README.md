@@ -1,8 +1,8 @@
-<h1 align="center">Hi 👋, I'm Togun Oluwatobi</h1>
+<h1 align="center">Hi 👋, I'm Togun Tobi</h1>
 
 ###
 
-<h5 align="center">A passionate software developer from Lagos Nigeria</h5>
+<h5 align="center">A passionate software developer from Stavanger Norway</h5>
 
 ###
 
